@@ -1,2 +1,2 @@
 * [Home](/)
-* [Installation](installation.md)
+* [Software](software.md)

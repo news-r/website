@@ -1,15 +1,12 @@
+# Software
 
-```r
-# install.packages("remotes")
-remotes::install_github("news-r/newsr")
+Below are the packages included in 
 
-# load libraries
-library(newsr)
+## Platforms
 
-news <- search_news("query")
-```
+- [auritus](auritus.io)
 
-The above R command installs and loads the packages listed below.
+## APIs
 
 - [newsapi](https://github.com/news-r/newsapi) - newsapi.org
 - [guardian](https://github.com/news-r/guardian) - The Guardian API
@@ -23,3 +20,15 @@ The above R command installs and loads the packages listed below.
 - [stocknews](https://github.com/news-r/stocknews) - Stocknews API (financial news)
 - [ft](https://github.com/news-r/ft) - Financial Times API
 - [accunews](https://github.com/news-r/accunews) - AccuNews API (local news)
+
+## Analysis
+
+```r
+# install.packages("remotes")
+remotes::install_github("news-r/newsr")
+
+# load libraries
+library(newsr)
+
+news <- search_news("query")
+```
