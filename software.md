@@ -1,6 +1,6 @@
 # Software
 
-Below are the packages included in 
+Below are the software developed by news-r, all of which are freely available on [Github](https://github.com/news-r).
 
 ## Platforms
 
@@ -30,14 +30,21 @@ Below are the packages included in
 
 - [go-webhose](https://github.com/news-r/go-webhose) - webhose.io API
 
-You can install the above with.
+You can install most the above with.
+
+<!-- tabs:start -->
+
+#### ** R **
 
 ```r
 # install.packages("remotes")
 remotes::install_github("news-r/newsr")
-
-# load libraries
-library(newsr)
-
-news <- search_news("query")
 ```
+
+#### ** Terminal **
+
+```bash
+sudo su - -c "R -e \"remotes::install_github('news-r/newsr')\""
+```
+
+<!-- tabs:end -->
