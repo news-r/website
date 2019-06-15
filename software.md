@@ -24,7 +24,13 @@ Below are the packages included in
 
 - [webhoserx](https://github.com/news-r/webhoserx) - Feature extraction extension for the `webhoser` package
 - [spotlight](https://github.com/news-r/spotlight) - Entity extraction with DBPedia Spotlight
-- [decipher](decipher.john-coene.com) - Easy natural language processing
+- [decipher](http://decipher.john-coene.com) - Easy natural language processing
+
+## Go
+
+- [go-webhose](https://github.com/news-r/go-webhose) - webhose.io API
+
+You can install the above with.
 
 ```r
 # install.packages("remotes")
