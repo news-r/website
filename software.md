@@ -4,9 +4,13 @@ Below are the software developed by news-r, all of which are freely available on
 
 ## Platforms
 
+Currently only includes one platform which will let you collect and analyse online news and blog coverage generated around topics of your choosing.
+
 - [auritus](https://auritus.io) - Free, open source media monitoring platform (beta)
 
 ## Data
+
+The packages below will you collect news articles and information on the latter.
 
 - [newsapi](https://github.com/news-r/newsapi) - newsapi.org
 - [guardian](https://github.com/news-r/guardian) - The Guardian API
@@ -21,6 +25,8 @@ Below are the software developed by news-r, all of which are freely available on
 - [greatfire](https://github.com/news-r/greatfire) - Keywords and URLs Censored on the Chinese Internet
 
 ## Analysis
+
+The packages below ease the analysis of news articles though they remain rudiementary (for now).
 
 - [webhoserx](https://github.com/news-r/webhoserx) - Feature extraction extension for the `webhoser` package
 - [spotlight](https://github.com/news-r/spotlight) - Entity extraction with DBPedia Spotlight

@@ -1,6 +1,6 @@
 # __news-r__ <small>0.1</small>
 
-> Press Scrutiny and Freedom of Information.
+> Promoting Press Scrutiny and Freedom of Information.
 
 [Github](https://github.com/news-r)
 
