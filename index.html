@@ -7,6 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css">
+  <link rel="stylesheet" href="styles.css">
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Ubuntu&display=swap" rel="stylesheet">
   <style>
       :root {
@@ -23,6 +24,8 @@
         --pre-font-family: font-family: 'Ubuntu', sans-serif;
         --code-font-family: 'Ubuntu', sans-serif;
         --code-theme-background: #f4f1e6;
+        --code-theme-text: #2f2f2f;
+        --code-theme-comment: #8c8c8c;
 
         --cover-blockquote-color: #2f2f2f;
         --cover-heading-color: #2f2f2f;
@@ -33,6 +36,15 @@
 
         --heading-color: #247BA0;
         --link-text-decoration-color--hover: #FF1654;
+
+        --copycode-background: #2f2f2f;
+        --copycode-color: #2f2f2f;
+
+        --sidebar-background: #f4f1e6;
+        --sidebar-border-width: 1px ;
+        --sidebar-width: 16rem;
+        --sidebar-name-color: #247BA0;
+        --sidebar-name-font-weight: bold;
       }
     </style>
 </head>
@@ -51,6 +63,11 @@
       },
       tabs: {
         persist: true // default
+      },
+      copyCode: {
+        buttonText : '📃',
+        errorText  : 'Error',
+        successText: 'Copied'
       }
     }
   </script>

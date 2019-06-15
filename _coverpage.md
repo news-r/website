@@ -2,6 +2,6 @@
 
 > Press Scrutiny and Freedom of Information.
 
-[Learn More]()
+[Github](https://github.com/news-r)
 
 ![color](#f0f0f0)

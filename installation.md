@@ -5,16 +5,21 @@ remotes::install_github("news-r/newsr")
 
 # load libraries
 library(newsr)
+
+news <- search_news("query")
 ```
 
-The above R command installs and loads the packages listen below.
+The above R command installs and loads the packages listed below.
 
-```r
-#> ── Attaching newsr ───────────────────────────────────────── newsr 0.0.1 ──
-#> ✔ newsapi   0.0.1          ✔ webhoserx 0.0.1     
-#> ✔ guardian  0.0.1.9000     ✔ currents  0.0.1     
-#> ✔ papers    0.0.0.9000     ✔ nytimes   0.0.0.9000
-#> ✔ loc       0.0.0.9000     ✔ spotlight 0.0.0.9000
-#> ✔ webhoser  0.0.1          ✔ stocknews 0.0.1     
-#> ✔ accunews  0.0.1          ✔ ft        0.0.1
-```
+- [newsapi](https://github.com/news-r/newsapi) - newsapi.org
+- [guardian](https://github.com/news-r/guardian) - The Guardian API
+- [papers](https://github.com/news-r/papers) - Information on newspapers
+- [loc](https://github.com/news-r/loc) - Library of Congress API
+- [webhoser](https://github.com/news-r/webhoser) - webhose.io API
+- [webhoserx](https://github.com/news-r/webhoserx) - Feature extraction extension for `webhoser`
+- [currents](https://github.com/news-r/currents) - Currents API
+- [nytimes](https://github.com/news-r/nytimes) - New York Times API
+- [spotlight](https://github.com/news-r/spotlight) - Entity extraction with DBPedia Spotlight
+- [stocknews](https://github.com/news-r/stocknews) - Stocknews API (financial news)
+- [ft](https://github.com/news-r/ft) - Financial Times API
+- [accunews](https://github.com/news-r/accunews) - AccuNews API (local news)
