@@ -2,8 +2,6 @@
 
 > Press Scrutiny and Freedom of Information.
 
-- Easily access media data
-- Free and Independent
-- R and Go friendly
+[Learn More]()
 
 ![color](#f0f0f0)
