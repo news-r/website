@@ -23,6 +23,7 @@ The packages below will you collect news articles and information on the latter.
 - [ft](https://github.com/news-r/ft) - Financial Times API
 - [accunews](https://github.com/news-r/accunews) - AccuNews API (local news)
 - [greatfire](https://github.com/news-r/greatfire) - Keywords and URLs Censored on the Chinese Internet
+- [hoaxy](https://github.com/news-r/hoaxy) - Monitor fake news
 
 ## Analysis
 
