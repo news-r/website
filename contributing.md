@@ -27,7 +27,7 @@ This allows users to setup their key in their `.Renviron` file, which is easily 
 .onAttach <- function(...) {
   key <- Sys.getenv("NEWSAPI_API_KEY")
 
-  msg <- "No API key found, see `ft_key`"
+  msg <- "No API key found, see `newsapi_key`"
   if(nchar(key) > 1) msg <- "API key loaded!"
 
   packageStartupMessage(msg)
