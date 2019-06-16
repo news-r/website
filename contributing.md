@@ -1,6 +1,6 @@
 # Contributing
 
-<mark>If you are visiting this page, thank for even just considering a contribution to this project.</mark>
+<mark>If you are visiting this page, thank you for even contemplating a contribution.</mark>
 
 Pretty much anyone is of course welcome to contribute to the initiative. Please report any bug you encounter or suggest any feature by opening Github issues. Also feel free to contribute on any [Github](https://github.com/news-r) software by creating pull request.
 
