@@ -2,7 +2,7 @@
 
 Please feel free to get in touch, either by opening issues or pull requests on any of our [Github repositories](https://github.com/news-r); or fill the form below.
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true" netlify>
 <p>
 <label>Your Name: <input type="text" name="name" /></label>   
 </p>
