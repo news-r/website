@@ -10,4 +10,4 @@ Though some packages have already been developed, the aim is ultimately to have 
 
 You can explore the open-source software already made available on our [software page](/software).
 
-In hope you too believe that we should see more media scrutiny and freedom of speech, that is you also trust they're complimentary and not mutually exclusive, please head to our [contributing page](/contributing) to co-operate.
+If you too believe that media scrutiny and freedom of speec---are complimentary---rather than mutually exclusive as often portrayed, please visit our[contributing page](/contributing) to co-operate.
