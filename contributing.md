@@ -2,7 +2,7 @@
 
 <mark>If you are visiting this page, thank you for even contemplating a contribution.</mark>
 
-Pretty much anyone is of course welcome to contribute to the initiative. Please report any bug you encounter or suggest any feature by opening Github issues. Also feel free to contribute on any [Github](https://github.com/news-r) software by creating pull request.
+Pretty much anyone is of course welcome to contribute to the initiative. Please report any bug you encounter or suggest any feature by opening Github issues. Also feel free to contribute on any [Github](https://github.com/news-r) software by creating pull requests.
 
 Then of course there are other contriutions which I omitted to mention, e.g. if you can design, a logo would great. The only thing that is not accepted currently is money.
 
