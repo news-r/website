@@ -8,4 +8,6 @@ Besides the addition of further data sources, the next item on the list is to un
 
 Though some packages have already been developed, the aim is ultimately to have a whole suite of tools that ease the analysis of media data.
 
+You can explore the open-source software already made available on our [software page](/software).
+
 In hope you too believe that we should see more media scrutiny and freedom of speech, that is you also trust they're complimentary and not mutually exclusive, please head to our [contributing page](/contributing) to co-operate.
