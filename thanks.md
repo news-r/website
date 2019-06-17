@@ -1,3 +1,3 @@
 # Thanks!
 
-Thank
+Thank you for your message, we'll get back to you via email as soon as possible.
