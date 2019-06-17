@@ -5,6 +5,7 @@ Please feel free to get in touch, either by opening issues or pull requests on a
 <form action="https://formspree.io/jcoenep@gmail.com" method="POST" />
 <input type="hidden" name="_subject" value="New submission from news-r!" />
 <input type="hidden" name="_next" value="https://news-r.org/thanks"/>
+<input type="text" name="_gotcha" style="display:none" />
 <label for="name">Name: </label>
 <input type="text" name="name" id="name">
 <br/>
