@@ -47,7 +47,7 @@ Below is the main color palette used.
 <span style="background:#247BA0;" class="palette">#247BA0</span>
 <span style="background:#70C1B3;" class="palette">#70C1B3</span>
 <span style="background:#B2DBBF;" class="palette">#B2DBBF</span>
-<span style="background:#F3FFBD;" class="palette">#F3FFBD</span>
+<span style="background:#F3FFBD;color:#2f2f2f;" class="palette">#F3FFBD</span>
 <span style="background:#FF1654;" class="palette">#FF1654</span>
 
 The background color of this page is #f9f7f1 while the font is <span style="background:#2f2f2f;" class="palette">#2f2f2f</span> in [Playfair Display](https://fonts.google.com/specimen/Playfair+Display).
