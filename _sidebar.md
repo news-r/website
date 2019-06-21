@@ -1,4 +1,5 @@
 * [Home](/)
 * [Software](software.md)
 * [Contribute](contributing.md)
+* [Members](members.md)
 * [Contact](contact.md)
