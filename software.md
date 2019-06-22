@@ -32,7 +32,7 @@ The packages below ease the analysis of news articles though they remain rudieme
 - [webhoserx](https://github.com/news-r/webhoserx) - Feature extraction extension for the `webhoser` package
 - [spotlight](https://github.com/news-r/spotlight) - Entity extraction with DBPedia Spotlight
 - [decipher](http://decipher.john-coene.com) - Easy natural language processing
-- [factcheck](https://github.com/news-r/hoaxy) - Fact check queries or publishers
+- [factcheck](https://github.com/news-r/factcheck) - Fact check queries or publishers
 
 ## Go
 
