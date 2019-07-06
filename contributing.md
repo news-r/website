@@ -2,9 +2,9 @@
 
 <mark>If you are visiting this page, thank you for even contemplating a contribution.</mark>
 
-Pretty much anyone is of course welcome to contribute to the initiative. Please report any bug you encounter or suggest any feature by opening Github issues. Also feel free to contribute on any [Github](https://github.com/news-r) software by creating pull request.
+Pretty much anyone is of course welcome to contribute to the initiative. Please report any bug you encounter or suggest any feature by opening Github issues. Also feel free to contribute on any [Github](https://github.com/news-r) software by creating pull requests.
 
-Then of course there are other contriutions which I omitted to mention, e.g. if you can design, a logo would great. The only thing that is not accepted currently is money.
+Then of course there are other contriutions which though not mentioned are always welcome, e.g. a logo would great! The only thing that is not accepted currently is money: we currently do not incur any cost.
 
 ## Coding Standards
 
@@ -47,7 +47,7 @@ Below is the main color palette used.
 <span style="background:#247BA0;" class="palette">#247BA0</span>
 <span style="background:#70C1B3;" class="palette">#70C1B3</span>
 <span style="background:#B2DBBF;" class="palette">#B2DBBF</span>
-<span style="background:#F3FFBD;" class="palette">#F3FFBD</span>
+<span style="background:#F3FFBD;color:#2f2f2f;" class="palette">#F3FFBD</span>
 <span style="background:#FF1654;" class="palette">#FF1654</span>
 
 The background color of this page is #f9f7f1 while the font is <span style="background:#2f2f2f;" class="palette">#2f2f2f</span> in [Playfair Display](https://fonts.google.com/specimen/Playfair+Display).

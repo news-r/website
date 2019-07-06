@@ -1,7 +1,13 @@
 # news-r
 
-`news-r` is an initiative creating tools to facilitate the collection and analysis of the traditional media. Its ultimate aim being to simultaneously increase press scrutiny and freedom of information.
+<mark>news-r</mark> is an initiative that attempts to simultaneously promote media scrutiny and freedom of information.
 
-Thus far the initiative has focused on easing access to data useful to its endeavour, pimarily in the R programming language (some in Go). Though several such data sources have been tackled already (including [The Guardian](https://github.com/news-r/guardian) and [The New York Times](https://github.com/news-r/nytimes)) many more need to be made accessible to researchers.
+Thus far the project has focused on easing access to data relevant to the aforestated credo, with the integration of APIs that provide data on e.g. [fake news](https://github.com/news-r/hoaxy), [fact checks](https://github.com/news-r/factcheck), or [censorship](https://github.com/news-r/greatfire).
 
-Once all major sources are integrated with the R language, `news-r` aims at unifying the them into one single API for convenience.
+Besides the addition of further data sources, the next item on the list is to unify the latter under one single Application Programming Interface (API) in order for users can retrieve news articles from numerous sources using one single function.
+
+Though some packages have already been developed, the aim is ultimately to have a whole suite of tools that ease the analysis of media data.
+
+You can explore the open-source software already made available on our [software page](/software).
+
+If you too believe that media scrutiny and freedom of speech---are complimentary---rather than mutually exclusive as often portrayed, please visit our [contributing page](/contributing) to co-operate.

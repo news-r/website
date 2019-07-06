@@ -13,9 +13,6 @@
       :root {
         /* Reduce the font size */
         --base-font-size: 18px;
-    
-        /* Change the sidebar bullets */
-        --sidebar-nav-link-before-content: '📰';
 
         --base-background-color: #f9f7f1;
         --base-color: #2f2f2f;
@@ -23,6 +20,7 @@
 
         --pre-font-family: font-family: 'Ubuntu', sans-serif;
         --code-font-family: 'Ubuntu', sans-serif;
+        --code-font-size: 13px;
         --code-theme-background: #f4f1e6;
         --code-theme-text: #2f2f2f;
         --code-theme-comment: #8c8c8c;
@@ -48,6 +46,9 @@
 
         --search-background: #f9f7f1;
         --search-result-keyword-color: #FF1654;
+
+        --pagination-label-font-size: 15px;
+        --pagination-title-font-size: 25px;
       }
     </style>
 </head>
@@ -58,7 +59,8 @@
       themeColor: '#247BA0',
       loadSidebar: true,
       coverpage: true,
-      name: 'news-r',
+      ga: 'UA-74544116-1',
+      name: '📰 news-r',
       repo: 'https://github.com/news-r',
       ga: 'UA-74544116-1',
       themeable: {

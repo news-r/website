@@ -2,6 +2,6 @@
 
 > Promoting Press Scrutiny and Freedom of Information.
 
-[Github](https://github.com/news-r)
+[Github](https://github.com/news-r) [Contribute](/contributing)
 
 ![color](#f0f0f0)
