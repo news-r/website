@@ -6,6 +6,10 @@ Pretty much anyone is of course welcome to contribute to the initiative. Please 
 
 Then of course there are other contriutions which though not mentioned are always welcome, e.g. a logo would great! The only thing that is not accepted currently is money: we currently do not incur any cost.
 
+## Documentation
+
+There is a working [newsrdown](https://github.com/news-r/newsrdown) package that features functions to easily develop news-r styled pkgdown websites.
+
 ## Coding Standards
 
 If you intend to contribute to anything code-related please try to abide by the style guide as much as you can.
