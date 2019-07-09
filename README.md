@@ -1,6 +1,6 @@
 # news-r
 
-<mark>news-r</mark> is an initiative that attempts to simultaneously promote media scrutiny and freedom of information.
+<mark>news-r</mark> is an initiative that attempts to simultaneously promote media scrutiny and freedom of speech.
 
 Thus far the project has focused on easing access to data relevant to the aforestated credo, with the integration of APIs that provide data on e.g. [fake news](https://github.com/news-r/hoaxy), [fact checks](https://github.com/news-r/factcheck), or [censorship](https://github.com/news-r/greatfire).
 
