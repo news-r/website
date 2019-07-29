@@ -29,6 +29,7 @@ The packages below will you collect news articles and information on the latter.
 
 The packages below ease the analysis of news articles though they remain rudiementary (for now).
 
+- [gensimr](https://gensimr.news-r.org) - Topic Modeling for Humans
 - [webhoserx](https://github.com/news-r/webhoserx) - Feature extraction extension for the `webhoser` package
 - [spotlight](https://github.com/news-r/spotlight) - Entity extraction with DBPedia Spotlight
 - [decipher](http://decipher.john-coene.com) - Easy natural language processing
