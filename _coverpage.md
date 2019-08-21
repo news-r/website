@@ -1,4 +1,4 @@
-# __news-r__ <small>0.1</small>
+<img src="news-r-margin.png" height="250px">
 
 > Software for Media Analysis.
 
