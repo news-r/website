@@ -1,10 +1,10 @@
 # Contributing
 
-<mark>If you are visiting this page, thank you for even contemplating a contribution.</mark>
+<mark>If you are visiting this page, thank you for even just contemplating a contribution. It is much appreciated!</mark>
 
-Pretty much anyone is of course welcome to contribute to the initiative. Please report any bug you encounter or suggest any feature by opening Github issues. Also feel free to contribute on any [Github](https://github.com/news-r) software by creating pull requests.
+Pretty much anyone is of course welcome to contribute to the initiative, we have an out-of-the-box [code of conduct](https://github.com/news-r/newsr/blob/master/CODE_OF_CONDUCT.md) from [Contributor Covenant](https://www.contributor-covenant.org/). Please report any bug you encounter or suggest any feature by opening Github issues. Also feel free to contribute on any [Github](https://github.com/news-r) software by creating pull requests. 
 
-Then of course there are other contriutions which though not mentioned are always welcome, e.g. a logo would great! The only thing that is not accepted currently is money: we currently do not incur any cost.
+You are more than welcome to submit a piece of software, there is no review process currently in place: please use the [contact form](/contact).
 
 ## Documentation
 
