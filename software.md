@@ -36,6 +36,7 @@ The packages below ease the analysis of news articles though they remain rudieme
 - [spotlight](https://github.com/news-r/spotlight) - Entity extraction with DBPedia Spotlight
 - [decipher](http://decipher.john-coene.com) - Easy natural language processing
 - [factcheck](https://github.com/news-r/factcheck) - Fact check queries or publishers
+- [phrasenets](https://phrasenets.news-r.org) - Create phrase networks
 
 ## Go
 
