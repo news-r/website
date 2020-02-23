@@ -32,7 +32,6 @@ The packages below ease the analysis of news articles though they remain rudieme
 - [gensimr](https://gensimr.news-r.org) - Topic Modeling for Humans
 - [word2vec.r](https://word2vec.news-r.org) - Word2vec from Julia to R
 - [textanalysis](https://github.com/news-r/textanalysis) - TextAnalysis.jl for R
-- [webhoserx](https://github.com/news-r/webhoserx) - Feature extraction extension for the `webhoser` package
 - [spotlight](https://github.com/news-r/spotlight) - Entity extraction with DBPedia Spotlight
 - [decipher](http://decipher.john-coene.com) - Easy natural language processing
 - [factcheck](https://github.com/news-r/factcheck) - Fact check queries or publishers
