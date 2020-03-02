@@ -12,10 +12,11 @@ Currently only includes one platform which will let you collect and analyse onli
 
 The packages below will you collect news articles and information on the latter.
 
-- [newsapi](https://github.com/news-r/newsapi) - newsapi.org
+- [newsapi](https://github.com/news-r/newsapi) - Integration of newsapi.org
 - [guardian](https://github.com/news-r/guardian) - The Guardian API
 - [papers](https://github.com/news-r/papers) - Information on world wide newspapers
 - [loc](https://github.com/news-r/loc) - Library of Congress API
+- [fopi](https://github.com/news-r/fopi) - Freedom of Press Index
 - [webhoser](https://github.com/news-r/webhoser) - webhose.io API
 - [currents](https://github.com/news-r/currents) - Currents API
 - [nytimes](https://github.com/news-r/nytimes) - New York Times API
