@@ -7,6 +7,7 @@ Below are the software developed by news-r, all of which are freely available on
 Currently only includes one platform which will let you collect and analyse online news and blog coverage generated around topics of your choosing.
 
 - [auritus](https://auritus.io) - Free, open source media monitoring platform (beta)
+- [Freedom of Press Index](https://app.news-r.org/app/fopi-app) - Freedom of Press Index Visualisation
 
 ## Data
 
@@ -16,7 +17,7 @@ The packages below will you collect news articles and information on the latter.
 - [guardian](https://github.com/news-r/guardian) - The Guardian API
 - [papers](https://github.com/news-r/papers) - Information on world wide newspapers
 - [loc](https://github.com/news-r/loc) - Library of Congress API
-- [fopi](https://github.com/news-r/fopi) - Freedom of Press Index
+- [fopi](https://github.com/news-r/fopi) - Freedom of Press Index API
 - [webhoser](https://github.com/news-r/webhoser) - webhose.io API
 - [currents](https://github.com/news-r/currents) - Currents API
 - [nytimes](https://github.com/news-r/nytimes) - New York Times API
